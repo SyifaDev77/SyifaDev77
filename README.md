@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Asy Syifa’ 👋</h1>
+<h3 align="center">Computer Science (Multimedia Computing) Student | Aspiring Developer</h3>
 
-<!--
-**asysyifahamran77-cell/asysyifahamran77-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 Bachelor of Computer Science (Hons.) Multimedia Computing  
+- 💡 Interested in **AR/VR**, **game development**, **3D Objects** and **interactive systems**
+- 🛠 Currently upgrading my skill on **Adobe Illustrator** and **Blender**
+- 🌱 Always learning and improving through hands-on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+- 🌋 **AR Volcano Education App**  
+  Interactive learning app with 3D models, particle effects, and quizzes
+- 🐾 **PawsJungleDB**  
+  Database-driven system built with Java, JDBC, and DAO pattern
+
+> 👉 Check out my repositories below!
+
+---
+
+### 🧰 Tech Stack
+**Languages & Tools**
+- 💻 Java, C#, JavaScript, SQL
+- 🎮 Unity, AR Foundation
+- 🎨 Photoshop, Illustrator
+- 🔧 Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asysyifahamran77-cell&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 💼 LinkedIn: *(add when ready)*
+- 🌐 Portfolio: *(add when ready)*
+
+✨ Thanks for visiting my GitHub profile!
+
