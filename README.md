@@ -2,6 +2,14 @@
 <h3 align="center">Computer Science (Multimedia Computing) Student | Aspiring Developer</h3>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Augmented_Reality-5C2D91?style=for-the-badge&logo=google-ar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Student_Developer-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
 
 ### 👩‍💻 About Me
 - 🎓 Bachelor of Computer Science (Hons.) Multimedia Computing  
